@@ -15,7 +15,7 @@ body {
     text-align: center;
     margin-top: .4em;
     font-family: "Open Sans", sans-serif;
-    color: #222256;
+    color: #252F3F;
     padding: 10px;
 }
 .navbar .nav li {
@@ -135,7 +135,7 @@ input.search-query {
 }
 
 .collection-category h2 a {
-    color: #3db890;
+    color: #63C339;
 }
 
 .collection-category .category-list {
@@ -150,7 +150,7 @@ input.search-query {
 #serp-dd .result a, #serp-dd .result>li.active, #full-Article strong a, .collection a, .contentWrapper a, .most-pop-articles .popArticles a, .most-pop-articles .popArticles a span, .category-list .category .article-count, .category-list .category .article-count, .contentWrapper a {
     font-weight: 500;
     letter-spacing: .25px;
-    color: #3db890;
+    color: #63C339;
     margin-top: 15px;
     text-transform: capitalize;
     text-decoration: none;
@@ -161,7 +161,7 @@ input.search-query {
 #serp-dd .result a:hover, #serp-dd .result>li.active, #full-Article strong a, .collection a, .contentWrapper a, .most-pop-articles .popArticles a, .most-pop-articles .popArticles a:hover span, .category-list .category .article-count, .category-list .category:hover .article-count, .contentWrapper a {
     font-weight: 500;
     letter-spacing: .25px;
-    color: #3db890;
+    color: #63C339;
     margin-top: 15px;
     text-transform: capitalize;
     /* text-decoration: underline; */
@@ -174,18 +174,18 @@ input.search-query {
 #searchBar button {
     color: #fff;
     text-shadow: 0 0px 0px rgba(255,255,255,.0);
-    background: #03d3d5;
+    background: #63C339;
     border-radius: 0 5px 5px 0;
-    border: 1px solid #b98389;
+    border: 1px solid #63C339;
     font-size: 18px;
     padding: 0 1.5em;
     height: 50px;
     position: absolute;
 }
 #searchBar button:hover {
-    background: #2dd3fd;
+    background: #63C339;
     text-shadow: 0 0px 0px rgba(255,255,255,.0);
-    border: 1px solid #2ad7d7;
+    border: 1px solid #63C339;
 }
 input, button, select, textarea {
     font-family: "Open Sans",
@@ -494,7 +494,7 @@ footer p a {
 
 /* Collection Titles  */
 .collection-category h2 a {
-    color: #54494b;
+    color: #252F3F;
 }
 
 .collection-category h2 {
