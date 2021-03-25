@@ -128,7 +128,7 @@ input.search-query {
     padding-left: 0%;
     font-family: "Montserrat", sans-serif;
     /* text-transform: uppercase; */
-    color: #7e8287;
+    color: #000000;
     font-size: 22px;
     letter-spacing: 1px;
 }
@@ -251,7 +251,7 @@ input, button, select, textarea {
 #sidebar h3 {
     text-transform: uppercase;
     font-size: 16px;
-    color: #7e8287;
+    color: #000000;
     font-weight: 400;
     margin-bottom: 4px;
     font-family: "Montserrat",
@@ -288,7 +288,7 @@ input, button, select, textarea {
     top: 40px;
 }
 #fullArticle, #fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
-    color: #7e8287;
+    color: #000000;
     font-family: "Montserrat",
     sans-serif;
     font-size: 14px;
@@ -301,7 +301,7 @@ input, button, select, textarea {
     margin: 0;
     line-height: 24px;
     font-size: 13px;
-    color: #7e8287;
+    color: #000000;
     font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
@@ -309,28 +309,28 @@ input, button, select, textarea {
 /* Style this one if you want bolded article text to have a different color */
 
 #fullArticle strong {
-    color: #7e8287;
+    color: #000000;
 }
 #fullArticle h2 {
     font-size: 24px;
     font-family: "Montserrat",
     sans-serif;
     font-weight: 400;
-    color: #252F3F;
+    color: #000000;
 }
 #fullArticle h3 {
     font-size: 20px;
     font-family: "Montserrat",
     sans-serif;
     font-weight: 700;
-    color: #252F3F;
+    color: #000000;
 }
 #fullArticle h4 {
     font-size: 16px;
     font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
-    color: #7e8287;
+    color: #000000;
     font-style: italic;
 }
 .contentWrapper p {
@@ -338,7 +338,7 @@ input, button, select, textarea {
     word-wrap: break-word;
     font-family: "Montserrat",
     sans-serif;
-    color: #7e8287;
+    color: #000000;
     font-weight: 300;
     font-size: 16px;
     letter-spacing: .01em;
@@ -347,7 +347,7 @@ input, button, select, textarea {
 /* Article Footers */
 
 .articleFoot p, .articleFoot time {
-    color: #7e8287;
+    color: #000000;
     display: inline-block;
     font-family: "Montserrat",
     sans-serif;
@@ -358,7 +358,7 @@ input, button, select, textarea {
 /* Page Footers */
 
 footer p a {
-    color: #7e8287;
+    color: #000000;
     font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
@@ -386,7 +386,7 @@ footer p a {
     sans-serif;
     font-size: 14px;
     font-weight: 300;
-    color: #7e8287;
+    color: #000000;
 }
 
 .btn {
