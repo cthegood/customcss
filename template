@@ -233,7 +233,7 @@ input, button, select, textarea {
 
 #sidebar .nav-list a {
     display: inline-block;
-    color: #4333d6;
+    color: #63C339;
     font-size: 14px;
     padding: 6px 15px 6px 0;
     line-height: 20px;
@@ -244,7 +244,7 @@ input, button, select, textarea {
 }
 #sidebar .nav-list .active a, #sidebar .nav-list .active a:hover, #sidebar .nav-list .active a:focus {
     font-weight: 500;
-    color: #06b9dd;
+    color: #63C339;
     background: 0 0;
     text-shadow: none;
     text-decoration: underline;
@@ -280,7 +280,7 @@ input, button, select, textarea {
     margin: 0 30px .5em 0;
     font-family: "Open Sans",
     sans-serif;
-    color: #db2955;
+    color: #252F3F;
     font-weight: 700;
 }
 #fullArticle .printArticle {
@@ -317,14 +317,14 @@ input, button, select, textarea {
     font-family: "Open Sans",
     sans-serif;
     font-weight: 400;
-    color: #db2955;
+    color: #252F3F;
 }
 #fullArticle h3 {
     font-size: 20px;
     font-family: "Open Sans",
     sans-serif;
     font-weight: 700;
-    color: #db2955;
+    color: #252F3F;
 }
 #fullArticle h4 {
     font-size: 16px;
@@ -378,7 +378,7 @@ footer p a {
     border-top-right-radius: 4px;
     font-family: "Open Sans",
     sans-serif;
-    color: #58A4B0;
+    color: #63C339;
     font-weight: 300;
 }
 #contactModal .control-label {
