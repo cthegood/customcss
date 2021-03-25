@@ -1,6 +1,6 @@
 /* Custom Help Scout StyleSheet - by Devan Sabaratnam (founder of HR Partner - www.hrpartner.io) */
 
-@import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,400i,500,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,400i,500,700');
 /* */
 
 body {
@@ -13,14 +13,14 @@ body {
     font-weight: 300;
     text-align: center;
     margin-top: .4em;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #252F3F;
     padding: 10px;
 }
 .navbar .nav li {
     display: inline-block;
     float: none;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 13px;
     letter-spacing: .1em;
 }
@@ -77,7 +77,7 @@ input.search-query {
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
     border-radius: 15px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 100;
     letter-spacing: 1px;
@@ -89,14 +89,14 @@ input.search-query {
     font-size: 20px;
     font-weight: 400;
     line-height: 1.3em;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 /* Category Styles */
 
 .category-list .category p {
     color: #252F3F;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     font-size: 15px;
     letter-spacing: 0.25px;
@@ -126,7 +126,7 @@ input.search-query {
     margin: 0 0 20px;
     text-align: center;
     padding-left: 0%;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     /* text-transform: uppercase; */
     color: #7e8287;
     font-size: 22px;
@@ -153,7 +153,7 @@ input.search-query {
     margin-top: 15px;
     text-transform: capitalize;
     text-decoration: none;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 500;
 }
@@ -164,7 +164,7 @@ input.search-query {
     margin-top: 15px;
     text-transform: capitalize;
     /* text-decoration: underline; */
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 500;
 }
@@ -187,7 +187,7 @@ input.search-query {
     border: 1px solid #63C339;
 }
 input, button, select, textarea {
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif,
     "Helvetica Neue",
     Helvetica,
@@ -237,7 +237,7 @@ input, button, select, textarea {
     padding: 6px 15px 6px 0;
     line-height: 20px;
     margin-left: 0;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
 }
@@ -254,7 +254,7 @@ input, button, select, textarea {
     color: #7e8287;
     font-weight: 400;
     margin-bottom: 4px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     letter-spacing: 2px;
 }
@@ -277,7 +277,7 @@ input, button, select, textarea {
 
 #fullArticle .title, .contentWrapper h1 {
     margin: 0 30px .5em 0;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     color: #252F3F;
     font-weight: 700;
@@ -289,7 +289,7 @@ input, button, select, textarea {
 }
 #fullArticle, #fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
     color: #7e8287;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -302,7 +302,7 @@ input, button, select, textarea {
     line-height: 24px;
     font-size: 13px;
     color: #7e8287;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
 }
@@ -313,21 +313,21 @@ input, button, select, textarea {
 }
 #fullArticle h2 {
     font-size: 24px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 400;
     color: #252F3F;
 }
 #fullArticle h3 {
     font-size: 20px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 700;
     color: #252F3F;
 }
 #fullArticle h4 {
     font-size: 16px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
     color: #7e8287;
@@ -336,7 +336,7 @@ input, button, select, textarea {
 .contentWrapper p {
     margin-top: -4px;
     word-wrap: break-word;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     color: #7e8287;
     font-weight: 300;
@@ -349,7 +349,7 @@ input, button, select, textarea {
 .articleFoot p, .articleFoot time {
     color: #7e8287;
     display: inline-block;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
     font-style: italic;
@@ -359,7 +359,7 @@ input, button, select, textarea {
 
 footer p a {
     color: #7e8287;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-weight: 300;
 }
@@ -375,14 +375,14 @@ footer p a {
     border-bottom: 1px solid #ccc;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     color: #63C339;
     font-weight: 300;
 }
 #contactModal .control-label {
     width: 110px;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -500,7 +500,7 @@ footer p a {
     font-weight: 400;
     margin: 0 0 20px;
     padding-left: .65%;
-    font-family: "Lato",
+    font-family: "Montserrat",
     sans-serif;
     text-align: center;
 }
